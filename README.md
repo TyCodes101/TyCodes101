@@ -5,7 +5,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&width=740&lines=I+Design+Products+That+Ship;Iterating+on+AI+Nutrition%2C+UX%2C+and+Quality;Building+with+SwiftUI+%7C+Next.js+%7C+TypeScript;Relentless+About+Polish+%7C+Owned+Delivery+End+to+End" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&width=740&lines=Building+MacroMesh%2C+an+AI+Nutrition+App;Ohio+State+%7C+CS+Student+%7C+Product+Engineering;Frontend%2C+Backend%2C+Mobile%2C+Deployment;Real+Projects+%7C+Continuous+Learning" alt="Typing SVG" />
 
 <br/>
 
@@ -26,143 +26,86 @@
 
 ---
 
-## Product Engineering at the Center
+## About Me
 
-I design and build real products that ship and evolve based on real usage—not just assignments.
+Hi, I'm Tyler Cox. I'm a Computer Science & Engineering student at The Ohio State University who builds production software and strives to improve every release. My focus is on building products—not just code—that people can actually use.
 
-My focus: building AI-powered applications that solve everyday friction with relentless iteration, sharp system design principles, and product-first thinking.
+Most of my work centers around product engineering with web, mobile, and cloud technologies. I'm especially interested in AI integration and designing apps that are easy to use and iterate on. The technologies I reach for most are SwiftUI, Next.js, TypeScript, React, Postgres, OpenAI APIs, and Vercel.
 
-**What sets my work apart:**
-- I frame every project as a product, not a demo.
-- Each line of code is accountable to user experience, scale, and polish.
-- I analyze, iterate, and re-architect until the flow matches the problem.
-
-My engineering journey isn't about stacks—it's about building for real users, closing the loop from architecture to deployment, and learning in public. 
+I want to become the kind of engineer who sees the whole picture: integrating frontend, backend, mobile, and deployment, with an eye for simple UX and user-driven learning.
 
 ---
 
-## MacroMesh: Building an AI Nutrition Engine
+## MacroMesh (AI Nutrition App)
 
-MacroMesh is more than just a calorie tracker—it's an evolving product built to re-think how users log meals, trust nutrition data, and get value from every entry.
+If you notice one thing on my profile, make it MacroMesh. MacroMesh started because calorie tracking apps felt slow, inflexible, and weren't keeping up with how people naturally talk about food. I wanted to see if I could make nutrition logging easier, quicker, and a lot smarter by bringing AI into the process.
 
-### The Problem
+MacroMesh has grown into an actively maintained product where I experiment with product ideas, architect and re-architect features, and solve real engineering problems. It's gone from a simple prototype to a multi-platform app with:
 
-Traditional nutrition apps are frustrating: robotic flows, outdated food data, too many taps, and zero trust if a result seems wrong. I wanted to bridge human conversation and reliable, reviewable macros.
+- AI meal parsing with OpenAI API
+- A custom food resolver that checks for ambiguities and lets users review their logs before saving
+- Trust-first AI: predictions are never final until the user confirms them
+- Native iOS app built in SwiftUI
+- Next.js backend with TypeScript
+- Vercel for backend deployment, TestFlight for mobile beta, Codemagic for fast CI
+- Persistent bug fixing, API hardening, and UI/UX polish after every round of testing
 
-### Product Architecture
+The real engineering work happens in the details: handling ambiguous food descriptions, keeping the product stable as new features land, and learning from every unexpected user log. MacroMesh isn't just a class project—it's a production app that improves each month, and a platform for me to explore new approaches across the full stack.
 
-- **iOS App in SwiftUI**: Crafted for thumb-first mobile use. Focused on fast input, review-before-save, and instant feedback.
-- **Next.js API Backend**: Typesafe, modular backend orchestrates AI parsing (OpenAI), storage (Postgres+Prisma), and business logic for validation and trust.
-- **OpenAI Integration**: Food entries are parsed in natural language, mapped against a resolver system layered with source confidence, and reviewed by the user before final logging.
-- **Engineered Food Resolver**: Instead of just "guess and log," each meal passes through an explicit resolver system that checks for ambiguity, compares sources, and warns before committing.
-- **Review-Before-Save**: Every AI macro prediction is reviewable and editable, keeping user trust front and center.
-- **CI/CD & QA**: Codemagic and Vercel pipelines for peerless deploy speed and confidence. TestFlight builds for real-world iteration.
-
-### Engineering Decisions
-- Focused on mobile-first touch flows via SwiftUI
-- API reliability hardened with centralized error and correction handling
-- Built end-to-end test and lint workflows before production launch
-- Avoided filler features; shipped, measured, improved.
-
-### Challenges and Evolution
-- Achieving AI accuracy required a resolver pipeline that can correct or clarify uncertain food parses
-- API growth: as new food types and phrasing emerged from user logs, logic and testing expanded
-- Continuous feedback loops: design, code, deploy, measure, polish
-
-### Lessons Learned
-- Natural-language AI must always grant user control before logging facts
-- The best product flows reveal every important decision for user review, not just engineers
-
-### Roadmap
-- Expand food resolver for more global cuisines and user phrasing
-- Smarter context memory and suggestion engine
-- On-device privacy and offline meal logging
-
-<strong>Repo:</strong> [MacroMesh · calorie-compass](https://github.com/TyCodes101/calorie-compass)
+**Repository:**
+[MacroMesh · calorie-compass](https://github.com/TyCodes101/calorie-compass)
 
 ---
 
-## Other Featured Projects
+## Other Projects
 
 <details>
 <summary><strong>Stride Step Tracker</strong></summary>
+An app for tracking steps and calorie balance on your phone—built with React Native, designed for privacy, and focused on simple, reliable daily feedback. Everything, from persistence to onboarding, was made for real-world use.
 
-<b>Motivation:</b> Easy, privacy-first step and weight tracking for real life—not some cloud data mine.
-
-<b>Architecture:</b> Expo, React Native, AsyncStorage. Designed all views for single-hand operation and minimal distraction.
-
-<b>Engineering:</b> Real data, real empty states (no fake content ever), and sample/demo flows for recruiters and usability testing.
-
-<b>Lessons:</b> Design local-first, make every state UX-intentional.
-
-<b>Repo:</b> [Stride Step Tracker](https://github.com/TyCodes101/stride-step-tracker)
-
+[Stride Step Tracker](https://github.com/TyCodes101/stride-step-tracker)
 </details>
 
 <details>
 <summary><strong>CPU Scheduler Visualizer</strong></summary>
+This is a React/Vite project that visualizes operating system scheduling algorithms in action. All algorithm logic was implemented from the ground up, and the UI focuses on interactive learning rather than static info.
 
-<b>Motivation:</b> Turn textbook algorithms into a live, interactive experience for learning and showing off engineering depth.
-
-<b>Architecture:</b> React with Vite, full custom logic for FCFS, SJF, Priority, Round Robin. Animated Gantt, live metrics.
-
-<b>Build Process:</b> From problem spec to pixel-perfect UI—every calculation, chart, and feature is directly mapped to the algorithm theory.
-
-<b>Lessons:</b> To teach well, engineer rigorously.
-
-<b>Demo:</b> [Live](https://tycodes101.github.io/cpu-scheduler-visualizer/)  
-<b>Repo:</b> [CPU Scheduler Visualizer](https://github.com/TyCodes101/cpu-scheduler-visualizer)
-
+[Live Demo](https://tycodes101.github.io/cpu-scheduler-visualizer/) • [Repo](https://github.com/TyCodes101/cpu-scheduler-visualizer)
 </details>
 
 ---
 
-## The Stack (What I Actually Use)
+## My Toolset
 
 <table width="100%" style="font-size:15px">
-  <tr><td><b>Daily Drivers</b></td><td>TypeScript · Swift · React · Next.js · SwiftUI</td></tr>
-  <tr><td><b>AI</b></td><td>OpenAI API (parsing, intent), custom resolver logic</td></tr>
-  <tr><td><b>Backend</b></td><td>Node.js · Next.js API · Prisma ORM · Postgres</td></tr>
-  <tr><td><b>Frontend</b></td><td>React · SwiftUI · Tailwind CSS · Vite (for visualization)</td></tr>
-  <tr><td><b>Mobile</b></td><td>SwiftUI (iOS app) · Expo · React Native</td></tr>
-  <tr><td><b>Infra & CI/CD</b></td><td>Vercel (web deploy), Codemagic (iOS builds), TestFlight (beta)</td></tr>
-  <tr><td><b>Testing</b></td><td>Jest · Vitest · E2E workflows</td></tr>
-  <tr><td><b>Database</b></td><td>Postgres · Prisma</td></tr>
+  <tr><td><b>Daily Tools</b></td><td>TypeScript, Swift, Next.js, SwiftUI, React</td></tr>
+  <tr><td><b>AI</b></td><td>OpenAI API, resolver logic, prompt engineering</td></tr>
+  <tr><td><b>API / Backend</b></td><td>Node.js, Next.js API, Prisma, Postgres</td></tr>
+  <tr><td><b>Mobile</b></td><td>SwiftUI (iOS), Expo, React Native</td></tr>
+  <tr><td><b>Infra & CI/CD</b></td><td>Vercel, Codemagic, TestFlight</td></tr>
+  <tr><td><b>Testing</b></td><td>Jest, Vitest, end-to-end QA</td></tr>
 </table>
 
 ---
 
-## Development Philosophy
+## How I Build
 
-- Every product starts with a clear problem—not "let's use LLMs for fun."
-- Shipping is a stage, not the end—iteration is daily routine.
-- Mobile-first always wins for accessibility and habit-building.
-- If a user doesn't trust the data, the product failed (AI corrections, review-first always included).
+I believe the best products are the ones people actually want to use. I try to keep every interface simple, test things before shipping, and use real feedback to improve features. Maintainable code matters as much as flashy features. Every release is a chance to learn and refine the product.
 
 ---
 
-## Build Log: What I’m Iterating Right Now
+## Build Log
 
 <table>
-<tr><td><b>July 2026</b></td><td>Launched next-gen food resolver in MacroMesh. Improved ambiguous meal clarification by 37% from real user logs.</td></tr>
-<tr><td><b>June 2026</b></td><td>Codemagic CI built, shipping TestFlight every 48 hours with new feature trains. Doubled automated E2E test coverage in calorie-compass.</td></tr>
-<tr><td><b>May 2026</b></td><td>Published new design system for faster flow UX iteration in SwiftUI frontend.</td></tr>
-<tr><td><b>April 2026</b></td><td>Rolled out persistent error analytics in web API for proactive API reliability improvements.</td></tr>
+<tr><td><b>July 2026</b></td><td>Improved the AI food resolver to better handle ambiguous meal descriptions and expanded automated test coverage.</td></tr>
+<tr><td><b>June 2026</b></td><td>Streamlined Codemagic CI pipelines for quicker TestFlight releases and increased automation for QA checks.</td></tr>
+<tr><td><b>May 2026</b></td><td>Redesigned macro dashboard UI in SwiftUI and released new onboarding flow.</td></tr>
+<tr><td><b>April 2026</b></td><td>Rolled out new API error analytics for backend reliability in MacroMesh.</td></tr>
 </table>
 
 ---
 
-## How I Build Products
-
-1. **Start with a real user friction or habit.**
-2. **Design the flow:** pen, Figma, UI code, then tight user review.
-3. **Ship MVP, then measure real usage.**
-4. **Polish, test, correct, re-ship.**
-5. **Focus: does this hold up for real people?**
-
----
-
-## Quick Portfolio & Contact
+## Quick Links
 
 <p align="center">
   <a href="https://tyler-portfolio-site.vercel.app" target="_blank">Portfolio</a> •
@@ -188,7 +131,7 @@ Traditional nutrition apps are frustrating: robotic flows, outdated food data, t
 ---
 
 <div align="center">
-<i>Engineering is framing the right problem, testing every assumption, and owning every polish until the experience feels inevitable.</i>
+<i>Build for real people. Iterate. Make things easier, not harder.</i>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=161730,291642,42309f,5f189a,2e38a5&height=90" alt="Capsule Render Footer"/>
 </div>
