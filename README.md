@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Capsule Render Banner -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=161730,291642,42309f,5f189a,2e38a5&height=170&section=header&text=Tyler%20Cox%20%E2%80%A2%20Product%20Engineer&fontColor=f4f4f5&fontSize=45&fontAlignY=40&animation=fadeIn&customColorList=purple,indigo,blue" alt="Tyler Cox Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=161730,291642,42309f,5f189a,2e38a5&height=170&section=header&text=Tyler%20Cox%20%E2%80%A2%20Software%20Engineer&fontColor=f4f4f5&fontSize=45&fontAlignY=40&animation=fadeIn&customColorList=purple,indigo,blue" alt="Tyler Cox Banner"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&width=740&lines=Building+MacroMesh%2C+an+AI+Nutrition+App;Ohio+State+%7C+CS+Student+%7C+Product+Engineering;Frontend%2C+Backend%2C+Mobile%2C+Deployment;Real+Projects+%7C+Continuous+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&vCenter=true&width=740&lines=MacroMesh%3A+AI+Nutrition+App+I%E2%80%99m+Shipping+and+Maintaining;Ohio+State+CSE+Student+%7C+Intern%2FNew+Grad+Roles;SwiftUI+%7C+Next.js+%7C+TypeScript+%7C+OpenAI+API;Frontend+%2B+Backend+%2B+Mobile+%2B+Deployment" alt="Typing SVG" />
 
 <br/>
 
@@ -13,47 +13,130 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/tyler-cox-53b886406" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tyler%20Cox-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23212f" alt="LinkedIn"/></a>
   <a href="mailto:Tyler.cox66@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-Tyler.cox66%40yahoo.com-6a5acd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23212f" alt="Email"/></a>
-  <a href="https://tyler-portfolio-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Site-6532b1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=23212f" alt="Portfolio"/></a>
+  <a href="https://tyler-portfolio-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-tyler--portfolio--site-6532b1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=23212f" alt="Portfolio"/></a>
   <a href="https://github.com/TyCodes101" target="_blank"><img src="https://img.shields.io/badge/GitHub-TyCodes101-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=23212f" alt="GitHub"/></a>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=TyCodes101&label=Profile+Views&color=4c2885&style=flat"/>
 </p>
 <p align="center">
-  <img src="https://img.shields.io/static/v1?label=Location&message=Columbus%2C%20Ohio&color=3e23c1&style=flat-square&logo=googlemaps" />
+  <img src="https://img.shields.io/static/v1?label=Based%20In&message=Columbus%2C%20Ohio&color=3e23c1&style=flat-square&logo=googlemaps" />
 </p>
+
 </div>
 
 ---
 
 ## About Me
 
-Hi, I'm Tyler Cox. I'm a Computer Science & Engineering student at The Ohio State University who builds production software and strives to improve every release. My focus is on building products—not just code—that people can actually use.
+Hi, I’m Tyler. I study Computer Science & Engineering at The Ohio State University, and most of my time outside class goes into building and maintaining MacroMesh—an AI nutrition app that I’m actively shipping and improving.
 
-Most of my work centers around product engineering with web, mobile, and cloud technologies. I'm especially interested in AI integration and designing apps that are easy to use and iterate on. The technologies I reach for most are SwiftUI, Next.js, TypeScript, React, Postgres, OpenAI APIs, and Vercel.
-
-I want to become the kind of engineer who sees the whole picture: integrating frontend, backend, mobile, and deployment, with an eye for simple UX and user-driven learning.
+I like projects where the details matter: turning messy real-world input into reliable data, building interfaces that feel fast and clear on mobile, and keeping a system stable as features grow. I’m most comfortable working across the stack (SwiftUI + Next.js + TypeScript + Postgres) and I’m looking for software engineering internship and new grad opportunities.
 
 ---
 
-## MacroMesh (AI Nutrition App)
+## MacroMesh (centerpiece)
 
-If you notice one thing on my profile, make it MacroMesh. MacroMesh started because calorie tracking apps felt slow, inflexible, and weren't keeping up with how people naturally talk about food. I wanted to see if I could make nutrition logging easier, quicker, and a lot smarter by bringing AI into the process.
+<p align="center">
+  <a href="https://github.com/TyCodes101/calorie-compass" target="_blank"><img src="https://img.shields.io/badge/Repo-calorie--compass-6a5acd?style=for-the-badge&logo=github&logoColor=white&labelColor=23212f" alt="MacroMesh Repo"/></a>
+  <img src="https://img.shields.io/badge/SwiftUI-iOS-4c2885?style=for-the-badge&logo=swift&logoColor=white&labelColor=23212f" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Next.js-API-111827?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=23212f" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/TypeScript-App%20%2B%20API-2b6cb0?style=for-the-badge&logo=typescript&logoColor=white&labelColor=23212f" alt="TypeScript"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-Meal%20Parsing-3b82f6?style=for-the-badge&logo=openai&logoColor=white&labelColor=23212f" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Postgres-Data-2563eb?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=23212f" alt="Postgres"/>
+  <img src="https://img.shields.io/badge/Prisma-ORM-4338ca?style=for-the-badge&logo=prisma&logoColor=white&labelColor=23212f" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/Vercel-Deploy-1f2937?style=for-the-badge&logo=vercel&logoColor=white&labelColor=23212f" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/Codemagic-CI%2FCD-4f46e5?style=for-the-badge&logo=codemagic&logoColor=white&labelColor=23212f" alt="Codemagic"/>
+  <img src="https://img.shields.io/badge/TestFlight-iOS%20Beta-312e81?style=for-the-badge&logo=apple&logoColor=white&labelColor=23212f" alt="TestFlight"/>
+</p>
 
-MacroMesh has grown into an actively maintained product where I experiment with product ideas, architect and re-architect features, and solve real engineering problems. It's gone from a simple prototype to a multi-platform app with:
+MacroMesh began as a personal “I wish this existed” project. Meal logging should be fast, but it also has to be trustworthy—especially when an AI is involved. So the core product idea is simple: let the user write food naturally, use AI to help interpret it, and then make every important detail reviewable before it’s saved.
 
-- AI meal parsing with OpenAI API
-- A custom food resolver that checks for ambiguities and lets users review their logs before saving
-- Trust-first AI: predictions are never final until the user confirms them
-- Native iOS app built in SwiftUI
-- Next.js backend with TypeScript
-- Vercel for backend deployment, TestFlight for mobile beta, Codemagic for fast CI
-- Persistent bug fixing, API hardening, and UI/UX polish after every round of testing
+<table width="100%" style="font-size:15px">
+  <tr>
+    <td width="24%"><b>What it solves</b></td>
+    <td>Turns natural-language meal descriptions into structured, reviewable macro logs—without forcing a long, rigid form flow.</td>
+  </tr>
+  <tr>
+    <td><b>Trust model</b></td>
+    <td>Nothing is auto-saved. AI output becomes a draft; the user confirms/edits before it becomes history.</td>
+  </tr>
+  <tr>
+    <td><b>Key system</b></td>
+    <td>A food resolver pipeline that handles ambiguity, source confidence, and fallback behavior when a match is weak.</td>
+  </tr>
+  <tr>
+    <td><b>Shipping workflow</b></td>
+    <td>Vercel for the web/API surface, Codemagic + fastlane/TestFlight for iOS builds.</td>
+  </tr>
+</table>
 
-The real engineering work happens in the details: handling ambiguous food descriptions, keeping the product stable as new features land, and learning from every unexpected user log. MacroMesh isn't just a class project—it's a production app that improves each month, and a platform for me to explore new approaches across the full stack.
+### Architecture (high level)
 
-**Repository:**
-[MacroMesh · calorie-compass](https://github.com/TyCodes101/calorie-compass)
+```mermaid
+flowchart LR
+  A[iOS App (SwiftUI)] -->|auth + API calls| B[Next.js API (TypeScript)]
+  C[Web App (Next.js)] -->|meal logging| B
+  B --> D[OpenAI: intent/meal parse]
+  B --> E[Food Resolver (deterministic + provider layers)]
+  E --> F[(Postgres via Prisma)]
+  B --> F
+  B --> A
+  B --> C
+```
+
+<details>
+<summary><strong>Engineering notes (the part I spend most of my time on)</strong></summary>
+<br/>
+
+<table width="100%" style="font-size:15px">
+  <tr>
+    <td width="24%"><b>AI meal parsing</b></td>
+    <td>The AI is used for intent + structure. Nutrition trust still comes from the resolver/provider pipeline, and every draft stays editable.</td>
+  </tr>
+  <tr>
+    <td><b>Resolver design</b></td>
+    <td>Resolver prefers deterministic matches and saved corrections when possible, then uses model assistance when needed. It also produces “this is uncertain” states instead of pretending it knows.</td>
+  </tr>
+  <tr>
+    <td><b>Review-before-save UX</b></td>
+    <td>The UI treats the AI output like a suggestion, not a fact. This is the biggest difference between a “cool AI demo” and something people can actually keep using.</td>
+  </tr>
+  <tr>
+    <td><b>Reliability work</b></td>
+    <td>When OpenAI is unavailable (or keys aren’t set locally), the app has deterministic fallbacks so the core loop still works during development and testing.</td>
+  </tr>
+  <tr>
+    <td><b>Testing</b></td>
+    <td>Guardrails include unit tests and a multi-turn assistant QA suite to catch regressions in logging accuracy and correction behavior.</td>
+  </tr>
+</table>
+
+<b>Docs worth skimming (if you like seeing the thinking):</b>
+<br/>
+- https://github.com/TyCodes101/calorie-compass/blob/main/docs/openai-food-intelligence.md
+- https://github.com/TyCodes101/calorie-compass/blob/main/docs/food-logging-production-hardening-audit.md
+- https://github.com/TyCodes101/calorie-compass/blob/main/docs/NUTRITION_INTELLIGENCE_AUDIT.md
+
+</details>
+
+### Development timeline (recent)
+
+<table>
+  <tr><td width="18%"><b>July 2026</b></td><td>Improved the resolver flow for ambiguous meal descriptions and expanded automated test coverage around failure modes.</td></tr>
+  <tr><td><b>June 2026</b></td><td>Tightened the TestFlight pipeline and reduced friction in the release loop (Codemagic + fastlane handoff).</td></tr>
+  <tr><td><b>May 2026</b></td><td>Iterated on the macro dashboard and onboarding to make the core loop faster on mobile.</td></tr>
+</table>
+
+### Roadmap
+
+<table>
+  <tr><td width="18%"><b>Now</b></td><td>Resolver accuracy, review UX, and reliability under API/provider failure.</td></tr>
+  <tr><td><b>Next</b></td><td>Expand food matching coverage, improve caching, and add more confidence/attribution in the UI.</td></tr>
+  <tr><td><b>Later</b></td><td>Build out barcode/OCR flows further (kept behind review-first drafts, not auto-save).</td></tr>
+</table>
 
 ---
 
@@ -61,47 +144,38 @@ The real engineering work happens in the details: handling ambiguous food descri
 
 <details>
 <summary><strong>Stride Step Tracker</strong></summary>
-An app for tracking steps and calorie balance on your phone—built with React Native, designed for privacy, and focused on simple, reliable daily feedback. Everything, from persistence to onboarding, was made for real-world use.
+A React Native/Expo app for tracking steps and calorie balance with straightforward daily feedback. I built it with local-first persistence and real empty states, so the UI behaves honestly when there’s no data.
 
-[Stride Step Tracker](https://github.com/TyCodes101/stride-step-tracker)
+https://github.com/TyCodes101/stride-step-tracker
 </details>
 
 <details>
 <summary><strong>CPU Scheduler Visualizer</strong></summary>
-This is a React/Vite project that visualizes operating system scheduling algorithms in action. All algorithm logic was implemented from the ground up, and the UI focuses on interactive learning rather than static info.
+A React/Vite visualizer for FCFS, SJF, Priority, and Round Robin scheduling. The goal was to turn OS scheduling into something you can play with and understand quickly.
 
-[Live Demo](https://tycodes101.github.io/cpu-scheduler-visualizer/) • [Repo](https://github.com/TyCodes101/cpu-scheduler-visualizer)
+https://tycodes101.github.io/cpu-scheduler-visualizer/
+https://github.com/TyCodes101/cpu-scheduler-visualizer
 </details>
 
 ---
 
-## My Toolset
+## Toolset (what shows up in my repos)
 
 <table width="100%" style="font-size:15px">
-  <tr><td><b>Daily Tools</b></td><td>TypeScript, Swift, Next.js, SwiftUI, React</td></tr>
-  <tr><td><b>AI</b></td><td>OpenAI API, resolver logic, prompt engineering</td></tr>
-  <tr><td><b>API / Backend</b></td><td>Node.js, Next.js API, Prisma, Postgres</td></tr>
-  <tr><td><b>Mobile</b></td><td>SwiftUI (iOS), Expo, React Native</td></tr>
-  <tr><td><b>Infra & CI/CD</b></td><td>Vercel, Codemagic, TestFlight</td></tr>
-  <tr><td><b>Testing</b></td><td>Jest, Vitest, end-to-end QA</td></tr>
+  <tr><td width="24%"><b>Languages</b></td><td>TypeScript, Swift, JavaScript, HTML/CSS</td></tr>
+  <tr><td><b>Frameworks</b></td><td>SwiftUI, Next.js, React, Expo</td></tr>
+  <tr><td><b>AI</b></td><td>OpenAI API (structured outputs + contracts, meal/intent parsing)</td></tr>
+  <tr><td><b>Data</b></td><td>Postgres, Prisma</td></tr>
+  <tr><td><b>Deployment</b></td><td>Vercel, GitHub Pages</td></tr>
+  <tr><td><b>CI/CD</b></td><td>Codemagic, GitHub Actions</td></tr>
+  <tr><td><b>Testing</b></td><td>Vitest, Jest (project-dependent)</td></tr>
 </table>
 
 ---
 
-## How I Build
+## How I Build (practical)
 
-I believe the best products are the ones people actually want to use. I try to keep every interface simple, test things before shipping, and use real feedback to improve features. Maintainable code matters as much as flashy features. Every release is a chance to learn and refine the product.
-
----
-
-## Build Log
-
-<table>
-<tr><td><b>July 2026</b></td><td>Improved the AI food resolver to better handle ambiguous meal descriptions and expanded automated test coverage.</td></tr>
-<tr><td><b>June 2026</b></td><td>Streamlined Codemagic CI pipelines for quicker TestFlight releases and increased automation for QA checks.</td></tr>
-<tr><td><b>May 2026</b></td><td>Redesigned macro dashboard UI in SwiftUI and released new onboarding flow.</td></tr>
-<tr><td><b>April 2026</b></td><td>Rolled out new API error analytics for backend reliability in MacroMesh.</td></tr>
-</table>
+I try to build software people can actually keep using. I keep interfaces simple, test before shipping, and iterate based on what breaks or confuses users. I care a lot about maintainable code because I like revisiting a project months later and still being able to move fast.
 
 ---
 
@@ -116,22 +190,23 @@ I believe the best products are the ones people actually want to use. I try to k
 
 ---
 
-## GitHub Analytics
+## GitHub Analytics (verified providers)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TyCodes101&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&hide_title=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TyCodes101&layout=compact&theme=tokyonight&hide_border=true&hide_title=true&langs_count=8" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TyCodes101&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TyCodes101&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TyCodes101&theme=tokyonight" alt="Top Languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=TyCodes101&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TyCodes101&theme=react-dark&hide_border=true" alt="Activity Graph"/>
-  <img src="https://github-contributor-stats.vercel.app/api?username=TyCodes101" alt="Contribution Calendar"/>
 </p>
 
 ---
 
 <div align="center">
-<i>Build for real people. Iterate. Make things easier, not harder.</i>
+<i>Build for real people. Keep it simple. Test before shipping. Learn from every release.</i>
 <br/><br/>
 <img src="https://capsule-render.vercel.app/api?section=footer&type=waving&color=161730,291642,42309f,5f189a,2e38a5&height=90" alt="Capsule Render Footer"/>
 </div>
