@@ -29,7 +29,7 @@
 
 ## About Me
 
-Hi, I’m Tyler. I study Computer Science & Engineering at The Ohio State University, and most of my time outside class goes into building and maintaining MacroMesh—an AI nutrition app that I’m actively shipping and improving.
+Hi, I’m Tyler. I study Computer Science & Engineering at The Ohio State University, and most of my time outside class goes into building and maintaining MacroMesh which is an AI nutrition app that I’m actively shipping and improving.
 
 I like projects where the details matter: turning messy real-world input into reliable data, building interfaces that feel fast and clear on mobile, and keeping a system stable as features grow. I’m most comfortable working across the stack (SwiftUI + Next.js + TypeScript + Postgres) and I’m looking for software engineering internship and new grad opportunities.
 
