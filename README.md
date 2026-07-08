@@ -77,14 +77,14 @@ MacroMesh began as a personal “I wish this existed” project. Meal logging sh
 
 ```mermaid
 flowchart LR
-  A[iOS App (SwiftUI)] -->|auth + API calls| B[Next.js API (TypeScript)]
-  C[Web App (Next.js)] -->|meal logging| B
-  B --> D[OpenAI: intent/meal parse]
-  B --> E[Food Resolver (deterministic + provider layers)]
-  E --> F[(Postgres via Prisma)]
-  B --> F
-  B --> A
-  B --> C
+ A["iOS App<br/>SwiftUI"] -->|"Auth + API calls"| B["Next.js API<br/>TypeScript"]
+ C["Web App<br/>Next.js"] -->|"Meal logging"| B
+ B --> D["OpenAI<br/>Intent + meal parsing"]
+ B --> E["Food Resolver<br/>Deterministic + provider layers"]
+ E --> F[("Postgres<br/>Prisma")]
+ B --> F
+ B --> A
+ B --> C
 ```
 
 <details>
@@ -195,9 +195,6 @@ I try to build software people can actually keep using. I keep interfaces simple
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TyCodes101&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TyCodes101&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TyCodes101&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </p>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TyCodes101&theme=react-dark&hide_border=true" alt="Activity Graph"/>
