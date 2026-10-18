@@ -12,7 +12,7 @@
 <!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/tyler-cox-53b886406" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Tyler%20Cox-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=23212f" alt="LinkedIn"/></a>
-  <a href="mailto:Tyler.cox66@yahoo.com" target="_blank"><img src="https://img.shields.io/badge/Email-Tyler.cox66%40yahoo.com-6a5acd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23212f" alt="Email"/></a>
+  <a href="mailto:cox.1644@osu.edu" target="_blank"><img src="https://img.shields.io/badge/Email-cox.1644%40osu.edu-6a5acd?style=for-the-badge&logo=gmail&logoColor=white&labelColor=23212f" alt="Email"/></a>
   <a href="https://tyler-portfolio-site.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-tyler--portfolio--site-6532b1?style=for-the-badge&logo=vercel&logoColor=white&labelColor=23212f" alt="Portfolio"/></a>
   <a href="https://github.com/TyCodes101" target="_blank"><img src="https://img.shields.io/badge/GitHub-TyCodes101-24292f?style=for-the-badge&logo=github&logoColor=white&labelColor=23212f" alt="GitHub"/></a>
 </p>
@@ -31,7 +31,7 @@
 
 Hi, I’m Tyler. I study Computer Science & Engineering at The Ohio State University, and most of my time outside class goes into building and maintaining MacroMesh which is an AI nutrition app that I’m actively shipping and improving.
 
-I like projects where the details matter: turning messy real-world input into reliable data, building interfaces that feel fast and clear on mobile, and keeping a system stable as features grow. I’m most comfortable working across the stack (SwiftUI + Next.js + TypeScript + Postgres) and I’m looking for software engineering internship and new grad opportunities.
+I like projects where the details matter: turning messy real-world input into reliable data, building interfaces that feel fast and clear on mobile, and keeping a system stable as features grow. I’m most comfortable working across the stack (SwiftUI + Next.js + TypeScript + Postgres) and I’m seeking entry-level software engineering opportunities starting around my May 2027 graduation.
 
 ---
 
@@ -140,6 +140,16 @@ flowchart LR
 
 ---
 
+## IncidentOps — Security Incident Management Platform
+
+[**Live demo**](https://incidentops-public-demo.vercel.app/) · [**Repository and architecture**](https://github.com/TyCodes101/incidentops)
+
+I built a React/TypeScript and Python/FastAPI workbench backed by PostgreSQL. It includes searchable case queues, investigation notes, audit histories, backend Admin/Analyst/Viewer permissions, session/CSRF safeguards, Docker deployment, and automated tests for important API and persistence behaviors.
+
+**Engineering takeaway:** I enjoy making software reliable behind the UI — data consistency, authorization, testable workflows, and clear operational tools. The demonstration uses fictional data and is not a commercial security monitoring system.
+
+---
+
 ## Other Projects
 
 <details>
@@ -184,7 +194,7 @@ I try to build software people can actually keep using. I keep interfaces simple
 <p align="center">
   <a href="https://tyler-portfolio-site.vercel.app" target="_blank">Portfolio</a> •
   <a href="https://www.linkedin.com/in/tyler-cox-53b886406" target="_blank">LinkedIn</a> •
-  <a href="mailto:Tyler.cox66@yahoo.com" target="_blank">Email</a> •
+  <a href="mailto:cox.1644@osu.edu" target="_blank">Email</a> •
   <a href="https://github.com/TyCodes101" target="_blank">GitHub</a>
 </p>
 
